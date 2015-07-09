@@ -14,7 +14,7 @@ Four method:
 * AlignleftBytes
 
 e.g.
-```
+```C#
 static void Main(string[] args)
 {
     string str = "ABCDE測試";
