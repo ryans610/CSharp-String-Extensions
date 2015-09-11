@@ -1,10 +1,10 @@
 # C#-String-Extensions
 String pad left and right by bytes, align (cut &amp; pad) left and right by bytes.
 
-# Language
+##Language
 C#
 
-# How to Use
+##How to Use
 Download StringExtension.cs file and add it into project, or download StringExtension.dll and add referance to project, and using namespace CustomExtensions.
 
 Four method:
